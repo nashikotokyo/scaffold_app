@@ -1,4 +1,4 @@
-# rails new README
+# README modified test
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
